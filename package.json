@@ -6,10 +6,18 @@
     "type": "git",
     "url": "git+https://github.com/alexey-koran/alexey-koran.git"
   },
+  "scripts": {
+    "format": "prettier --check .",
+    "format:fix": "prettier --write ."
+  },
   "keywords": [
     "cv",
     "github profile"
   ],
   "author": "Alexey-Koran <alexey.koran@gmail.com>",
-  "packageManager": "pnpm@10.6.0"
+  "packageManager": "pnpm@10.6.0",
+  "devDependencies": {
+    "@alexey-koran/prettier-config": "^0.1.1",
+    "prettier": "^3.3.3"
+  }
 }
