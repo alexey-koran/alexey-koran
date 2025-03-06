@@ -1,0 +1,15 @@
+{
+  "name": "alexey-koran",
+  "version": "0.0.1",
+  "description": "Github profile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-koran/alexey-koran.git"
+  },
+  "keywords": [
+    "cv",
+    "github profile"
+  ],
+  "author": "Alexey-Koran <alexey.koran@gmail.com>",
+  "packageManager": "pnpm@10.6.0"
+}
