@@ -39,10 +39,10 @@ Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
 <summary><h2>Experience</h2></summary>
 
-| Company               | Title                     | Start Date     | End Date      |
+| Company               | Title                     | Start          | End           |
 | --------------------- | ------------------------- | -------------- | ------------- |
 | Specific-Group Poland | Senior Frontend Developer | March 2023     | August 2024   |
-| NDA                   | Senior Software Engineer  | February 2021  | March 2023    |
+| Outsource             | Senior Software Engineer  | February 2021  | March 2023    |
 | Pythia                | Full Stack Engineer       | April 2020     | February 2021 |
 | Tubapak               | Software Engineer         | October 2017   | August 2019   |
 | Tubapak               | Software Technician       | September 2016 | October 2017  |
@@ -53,10 +53,10 @@ Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
 <summary><h2>Education</h2></summary>
 
-| Education institution name                                                                  | Degree     | Field of study                  | Qualification       | Start Year | End Year |
-| ------------------------------------------------------------------------------------------- | ---------- | ------------------------------- | ------------------- | ---------- | -------- |
-| [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by/en/) | Bachelor's | Information technology software | Software engineer   | 2016       | 2021     |
-| [Minsk College of Business](https://www.mcb.by/)                                            | Specialist | Information technology software | Software technician | 2012       | 2016     |
+| Education institution name                                                                  | Degree     | Field of study                  | Qualification       | Start | End  |
+| ------------------------------------------------------------------------------------------- | ---------- | ------------------------------- | ------------------- | ----- | ---- |
+| [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by/en/) | Bachelor's | Information technology software | Software engineer   | 2016  | 2021 |
+| [Minsk College of Business](https://www.mcb.by/)                                            | Specialist | Information technology software | Software technician | 2012  | 2016 |
 
 </details>
 
@@ -64,409 +64,58 @@ Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
 <summary><h2>Languages and tools</h2></summary>
 
-<div>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/css3.svg"
-      alt="CSS3"
-      height="40"
-    />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/html5.svg"
-      alt="HTML5"
-      height="40"
-    />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/javascript.svg"
-      alt="JavaScript"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/typescript.svg"
-      alt="TypeScript"
-      height="40"
-    />
-  </a>
-</div>
+[![CSS3](./icons/css3.svg)](https://en.wikipedia.org/wiki/CSS)
+[![HTML5](./icons/html5.svg)](https://en.wikipedia.org/wiki/HTML5)
+[![JavaScript](./icons/javascript.svg)](https://en.wikipedia.org/wiki/JavaScript)
+[![TypeScript](./icons/typescript.svg)](https://www.typescriptlang.org)
 
-<div>
-  <a href="https://react.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/react.svg"
-      alt="React"
-      height="40"
-    />
-  </a>
-  <a href="https://preactjs.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/preact.svg"
-      alt="Preact"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/nextjs.svg"
-      alt="Next.js"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/redux.svg"
-      alt="Redux"
-      height="40"
-    />
-  </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/zustand.svg"
-      alt="Zustand"
-      height="40"
-    />
-  </a>
-  </div>
+[![React](./icons/react.svg)](https://react.dev)
+[![Preact](./icons/preact.svg)](https://preactjs.com)
+[![Next.js](./icons/nextjs.svg)](https://nextjs.org)
+[![Redux](./icons/redux.svg)](https://redux.js.org)
+[![Zustand](./icons/zustand.svg)](https://zustand-demo.pmnd.rs)
+[![Tanstack](./icons/tanstack.svg)](https://tanstack.com)
+[![React router](./icons/react-router.svg)](https://reactrouter.com)
+[![React Flow](./icons/react-flow.svg)](https://reactflow.dev)
+[![Formik](./icons/formik.svg)](https://formik.org)
+[![React hook form](./icons/react-hook-form.svg)](https://react-hook-form.com)
 
-<div>
-  <a href="https://tanstack.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/tanstack.png"
-      alt="Tanstack"
-      height="40"
-    />
-  </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/react-router.svg"
-      alt="React router"
-      height="40"
-    />
-  </a>
-  <a href="https://reactflow.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/react-flow.svg"
-      alt="React Flow"
-      height="40"
-    />
-  </a>
-  <a href="https://formik.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/formik.png"
-      alt="Formik"
-      height="40"
-    />
-  </a>
-  <a href="https://react-hook-form.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/react-hook-form.svg"
-      alt="React hook form"
-      height="40"
-    />
-  </a>
-</div>
+[![GraphQL](./icons/graphql.svg)](https://graphql.org)
+[![Apollo GraphQL](./icons/apollo-graphql.svg)](https://www.apollographql.com)
+[![Relay](./icons/relay.svg)](https://relay.dev)
+[![Node.js](./icons/nodejs.svg)](https://nodejs.org)
+[![MongoDB](./icons/mongodb.svg)](https://www.mongodb.com)
+[![Mongoose](./icons/mongoose.svg)](https://mongoosejs.com)
+[![PostgreSQL](./icons/postgresql.svg)](https://www.postgresql.org)
+[![Sequelize](./icons/sequelize.svg)](https://sequelize.org)
 
-<div>
-  <a href="https://graphql.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/graphql.svg"
-      alt="GraphQL"
-      height="40"
-    />
-  </a>
-  <a href="https://www.apollographql.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/apollo-graphql.svg"
-      alt="Apollo GraphQL"
-      height="40"
-    />
-  </a>
-  <a href="https://relay.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/relay.svg"
-      alt="Relay"
-      height="40"
-    />
-  </a>
-</div>
+[![Tailwind CSS](./icons/tailwindcss.svg)](https://www.tailwindcss.com)
+[![Sass](./icons/sass.svg)](https://sass-lang.com)
+[![PostCSS](./icons/postcss.svg)](https://postcss.org)
+[![Styled Components](./icons/styled-components.svg)](https://styled-components.com)
+[![Chakra UI](./icons/chakraui.svg)](https://chakra-ui.com)
+[![Headless UI](./icons/headlessui.svg)](https://headlessui.com)
+[![Material UI](./icons/mui.svg)](https://mui.com)
+[![Ant Design](./icons/ant-design.svg)](https://ant.design)
+[![Fluent UI](./icons/fluentui.svg)](https://react.fluentui.dev)
 
-<div>
-  <a href="https://nodejs.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/nodejs.svg"
-      alt="Node.js"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/mongodb.svg"
-      alt="MongoDB"
-      height="40"
-    />
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/mongoose.png"
-      alt="Mongoose"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/postgresql.svg"
-      alt="PostgreSQL"
-      height="40"
-    />
-  </a>
-  <a href="https://sequelize.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/sequelize.svg"
-      alt="Sequelize"
-      height="40"
-    />
-  </a>
-</div>
+[![Jest](./icons/jest.svg)](https://www.jestjs.io)
+[![Vitest](./icons/vitest.svg)](https://vitest.dev)
+[![React testing library](./icons/react-testing-library.svg)](https://testing-library.com)
+[![Cypress](./icons/cypress.svg)](https://www.cypress.io)
+[![Puppeteer](./icons/puppeteer.svg)](https://pptr.dev)
 
-<div>
-  <a href="https://www.tailwindcss.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/tailwindcss.svg"
-      alt="Tailwind CSS"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img
-    style="margin: 10px"
-    src="./icons/sass.svg"
-    alt="Sass"
-    height="40"
-    />
-  </a>
-  <a href="https://postcss.org/" target="_blank">
-    <img
-    style="margin: 10px"
-    src="./icons/postcss.svg"
-    alt="PostCSS"
-    height="40"
-    />
-  </a>
-  <a href="https://styled-components.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/styled-components.png"
-      alt="Styled Components"
-      height="40"
-    />
-  </a>
-</div>
+[![Webpack](./icons/webpack.svg)](https://webpack.js.org)
+[![Vite](./icons/vite.svg)](https://vite.dev)
+[![Esbuild](./icons/esbuild.svg)](https://esbuild.github.io)
+[![Eslint](./icons/eslint.svg)](https://eslint.org)
+[![Prettier](./icons/prettier.svg)](https://prettier.io)
+[![Stylelint](./icons/stylelint.svg)](https://stylelint.io)
 
-<div>
-  <a href="https://chakra-ui.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/chakraui.svg"
-      alt="Chakra UI"
-      height="40"
-    />
-  </a>
-  <a href="https://headlessui.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/headlessui.svg"
-      alt="Headless UI"
-      height="40"
-    />
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/mui.png"
-      alt="Material UI"
-      height="40"
-    />
-  </a>
-  <a href="https://ant.design/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/ant-design.svg"
-      alt="Ant Design"
-      height="40"
-    />
-  </a>
-  <a href="https://react.fluentui.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/fluentui.png"
-      alt="Fluent UI"
-      height="40"
-    />
-  </a>
-</div>
-
-<div>
-  <a href="https://www.jestjs.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/jest.svg"
-      alt="Jest"
-      height="40"
-    />
-  </a>
-  <a href="https://vitest.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/vitest.svg"
-      alt="Vitest"
-      height="40"
-    />
-  </a>
-  <a href="https://testing-library.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/react-testing-library.png"
-      alt="React testing library"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cypress.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/cypress.svg"
-      alt="Cypress"
-      height="40"
-    />
-  </a>
-  <a href="https://pptr.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/puppeteer.png"
-      alt="Puppeteer"
-      height="40"
-    />
-  </a>
-</div>
-
-<div>
-  <a href="https://webpack.js.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/webpack.svg"
-      alt="Webpack"
-      height="40"
-    />
-  </a>
-  <a href="https://vite.dev/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/vite.svg"
-      alt="Vite"
-      height="40"
-    />
-  </a>
-  <a href="https://esbuild.github.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/esbuild.svg"
-      alt="Esbuild"
-      height="40"
-    />
-  </a>
-</div>
-
-<div>
-  <a href="https://eslint.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/eslint.svg"
-      alt="Eslint"
-      height="40"
-    />
-  </a>
-  <a href="https://prettier.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/prettier.png"
-      alt="Prettier"
-      height="40"
-    />
-  </a>
-  <a href="https://stylelint.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/stylelint.svg"
-      alt="Stylelint"
-      height="40"
-    />
-  </a>
-</div>
-
-<div>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/linux.svg"
-      alt="Linux"
-      height="40"
-    />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/ubuntu.svg"
-      alt="Ubuntu"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="./icons/docker.svg"
-      alt="Docker"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.figma.com/"
-    target="_blank"
-  >
-    <img
-      style="margin: 10px"
-      src="./icons/figma.svg"
-      alt="Figma"
-      height="40"
-    />
-  </a>
-</div>
+[![Linux](./icons/linux.svg)](https://www.linux.org)
+[![Ubuntu](./icons/ubuntu.svg)](https://www.ubuntu.com)
+[![Docker](./icons/docker.svg)](https://www.docker.com)
+[![Figma](./icons/figma.svg)](https://www.figma.com)
 
 </details>
 
