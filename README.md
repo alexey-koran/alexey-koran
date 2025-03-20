@@ -41,8 +41,9 @@ Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
 | Company               | Title                     | Start          | End           |
 | --------------------- | ------------------------- | -------------- | ------------- |
+| Outsource             | Senior Frontend Developer | November 2024  | March 2025    |
 | Specific-Group Poland | Senior Frontend Developer | March 2023     | August 2024   |
-| Outsource             | Senior Software Engineer  | February 2021  | March 2023    |
+| Outsource             | Senior Frontend Developer | February 2021  | March 2023    |
 | Pythia                | Full Stack Engineer       | April 2020     | February 2021 |
 | Tubapak               | Software Engineer         | October 2017   | August 2019   |
 | Tubapak               | Software Technician       | September 2016 | October 2017  |
