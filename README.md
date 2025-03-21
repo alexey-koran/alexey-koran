@@ -11,7 +11,7 @@
 
 ### About
 
-Since 2016 I have been working as a software engineer, mainly specializing in web development
+Since 2016, I have worked as a software engineer, mainly in web development
 
 Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
@@ -23,9 +23,9 @@ Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
 - 🎓 Bachelor of Science in Software Engineering, [BSUIR](https://en.wikipedia.org/wiki/Belarusian_State_University_of_Informatics_and_Radioelectronics)
 
-- 🧑‍🎓 Trainer, mentor and activist at [RS School](https://rs.school/)
+- 🧑‍🎓 Trainer, mentor and activist at [RS School](https://rs.school/) (volunteer)
 
-- 🏅 25 mentored students. 4 [JS/FE](https://rs.school/courses/javascript) courses, 3 [React](https://rs.school/courses/reactjs)
+- 🏅 Mentored 25 students in 4 [JavaScript/Front-End](https://rs.school/courses/javascript) and 3 [React](https://rs.school/courses/reactjs) courses
 
 - 🔭 I’m currently working on [RS School assignments](https://rs.school/courses)
 
