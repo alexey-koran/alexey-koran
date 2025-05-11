@@ -25,7 +25,7 @@ Actual stack: TypeScript, React, Next.js, GraphQL, Relay/Apollo
 
 - 🧑‍🎓 Trainer, mentor and activist at [RS School](https://rs.school/) (volunteer)
 
-- 🏅 Mentored 25 students in 4 [JavaScript/Front-End](https://rs.school/courses/javascript) and 3 [React](https://rs.school/courses/reactjs) courses
+- 🏅 Mentored 18 students in 4 [JavaScript/Front-End](https://rs.school/courses/javascript) and 3 [React](https://rs.school/courses/reactjs) courses
 
 - 🔭 I’m currently working on [RS School assignments](https://rs.school/courses)
 
